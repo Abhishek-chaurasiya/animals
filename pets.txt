@@ -1,2 +1,4 @@
 charlie 
 major
+captain
+rocky
